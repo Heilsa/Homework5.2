@@ -1,5 +1,5 @@
 public class Main {
-    public static void main(String[] args) {
+    public static void main(String[] args)  {
         System.out.println("Задача 1");
         int salary = 15000;
         int total = 0;
